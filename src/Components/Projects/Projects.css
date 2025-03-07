@@ -61,5 +61,18 @@
     margin-bottom: 20px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
   }
+  .github-link h1 {
+    color: green;  
+    font-family: 'Arial', sans-serif; 
+    font-size: 22px;  
+    text-transform: uppercase;  
+    transition: color 0.3s ease;
+  }
+  
+  .github-link h1:hover {
+    color: blue;  
+  }
+  
+
   
   
